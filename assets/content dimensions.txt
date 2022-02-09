@@ -1,0 +1,16 @@
+Home Page------------------------------------------------------------
+	logo: 470px x 282px
+	Nav area: 1032px x 207px
+	text for pomo (area): 891px x 407px
+	promo image: 567px x 406px
+	Hero image: 1920px x 613px
+	text on hero: 816px x 386px
+	image(s): 434px x 633px
+	text box(es): 434px x 275 px
+	contact & support: unspecified
+Landing page---------------------------------------------------------
+	Logo and Nav area: Same as home page's
+	Hero image: 1920px x 657px
+	Welcome text: 454px x 138px
+	text box: 1070px x 546px
+	contact and support: unspecified
